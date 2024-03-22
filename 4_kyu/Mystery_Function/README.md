@@ -1,1 +1,1 @@
-<4 kyu> [Mystery Function](https://www.codewars.com/kata/56b2abae51646a143400001d)
+DESCRIPTION: [Mystery Function](https://www.codewars.com/kata/56b2abae51646a143400001d)

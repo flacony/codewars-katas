@@ -1,1 +1,1 @@
-<4 kyu> [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
+DESCRIPTION: [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
